@@ -1,0 +1,56 @@
+{
+	"blocks": [
+		{
+			"type": "section",
+			"text": {
+				"type": "mrkdwn",
+				"text": "Opportunity created with stage \"Qualification\""
+			}
+		}
+	],
+	"attachments": [
+		{
+			"color": "#36A64F",
+            "blocks": [
+				{
+					"type": "section",
+					"fields": [
+						{
+							"type": "mrkdwn",
+							"text": "*Opportunity Name*\nSample02"
+						},
+						{
+							"type": "mrkdwn",
+							"text": "*Account Name*\nANDREW TEST"
+						},
+						{
+							"type": "mrkdwn",
+							"text": "*Close Date*\n2017-03-16"
+						},
+						{
+							"type": "mrkdwn",
+							"text": "*Amount*\n$4500"
+						},
+						{
+							"type": "mrkdwn",
+							"text": "*Type*\nNew Business"
+						},
+						{
+							"type": "mrkdwn",
+							"text": "*Owner*\nAndrew"
+						}
+					]
+				},
+				{
+					"type": "context",
+					"elements": [
+						{
+							"type": "mrkdwn",
+							"text": "Sent via tray.io"
+						}
+					]
+				}
+			]
+		}
+	]
+}
